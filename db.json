@@ -71,6 +71,22 @@
       "email": "smith@gmail.com",
       "rating": 5,
       "review": "Awesome quality!"
+    },
+    {
+      "name": "am",
+      "email": "amn@12.com",
+      "rating": "4",
+      "review": "grea",
+      "productid": 1,
+      "id": 105
+    },
+    {
+      "name": "an",
+      "email": "amn@12.com",
+      "rating": "4",
+      "review": "er",
+      "productid": 1,
+      "id": 106
     }
   ]
 }

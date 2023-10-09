@@ -137,7 +137,7 @@ const ProductDetails = () => {
             </div>
           </div>
       </div>
-      
+      {/* <ReviewButton id={product.id}/> */}
     </div>
   );
 }

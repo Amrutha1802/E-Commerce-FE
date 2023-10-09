@@ -5,6 +5,7 @@ import '../Styles//HomePage.css'
 import { Link } from 'react-router-dom'
 import ProductItem from './ProductItem.js'
 
+
 const HomePage = () => {
   const { data, isLoading, isError } = useQuery('products',  ()=>{
     return axios.get('http://localhost:4000/products');

@@ -97,6 +97,7 @@ export default function ReviewForm({id}) {
               <button type='submit' className='prod-button'>Submit</button>      
           </Form>
       </Formik>
+      {addReviewMutation.isSuccess && <p>Review Added Successfully</p>}
     </div>
   )
 }
