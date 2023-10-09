@@ -1,0 +1,10 @@
+.nav-link{
+    margin-right:30px;
+}
+.nav-link.active{
+    color:red;
+}
+.nav-bar{
+    margin-left:100px;
+    align-items: center;
+}

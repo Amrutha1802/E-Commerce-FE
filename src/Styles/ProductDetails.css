@@ -1,0 +1,33 @@
+.image{
+    width: 500px;
+    margin-left:50px
+}
+.prod-details{
+    display:flex;
+    flex-direction: row;
+    position: absolute;
+}
+.image-desc{
+    margin-top: 50px; 
+}
+.variant-buttons-container {
+    display: flex;
+    justify-content:flex-start;
+    margin-left:5px; 
+}
+.prod-button{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height:35px;
+    cursor: pointer;
+    border-radius:3px;
+    margin-top:20px;
+}
+.reviews{
+    margin-left:10px;
+}

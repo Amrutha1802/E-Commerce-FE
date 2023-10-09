@@ -1,0 +1,10 @@
+.product-page{
+    margin-left:100px;
+    margin-top:40px;
+    display: flex;
+    flex-direction: row;
+}
+.prod-desc{
+    margin-left:40px;
+    text-decoration: none;
+}

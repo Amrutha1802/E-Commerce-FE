@@ -1,0 +1,21 @@
+.cart-container{
+    display:flex;
+    justify-content: flex-end;
+    margin-left:80px;
+    margin-right:90px;
+} 
+.carts{
+    border:2px solid;
+} 
+.cart-btn{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    height:35px;
+    cursor: pointer;
+    border-radius:3px;
+}

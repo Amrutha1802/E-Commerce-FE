@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bottle",
+      "description": "Bottle Description",
+      "price": 310,
+      "quantity": 5,
+      "variants": [
+        {
+          "id": 101,
+          "color": "blue",
+          "url": "https://m.media-amazon.com/images/I/61nb1cWMOiL._SX522_.jpg"
+        },
+        {
+          "id": 102,
+          "color": "red",
+          "url": "https://m.media-amazon.com/images/I/61aYjfxUHCL._SX522_.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "description": "Laptop Description",
+      "price": 79999,
+      "quantity": 12,
+      "variants": [
+        {
+          "id": 201,
+          "color": "grey",
+          "url": "https://m.media-amazon.com/images/I/51Qy7Yjx5PL._SL1201_.jpg"
+        },
+        {
+          "id": 202,
+          "color": "black",
+          "url": "https://m.media-amazon.com/images/I/51ETvFGF4QL._SL1201_.jpg"
+        }
+      ]
+    }
+  ],
+  "reviewsdata": [
+    {
+      "id": 101,
+      "productid": 1,
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "rating": 4,
+      "review": "Great product!"
+    },
+    {
+      "id": 102,
+      "productid": 1,
+      "name": "Alice Smith",
+      "email": "alice@gmail.com",
+      "rating": 5,
+      "review": "Awesome quality!"
+    },
+    {
+      "id": 103,
+      "productid": 2,
+      "name": "Bob Johnson",
+      "email": "bob@gmail.com",
+      "rating": 3,
+      "review": "It's okay, could be better."
+    },
+    {
+      "id": 104,
+      "productid": 2,
+      "name": "Alice Smith",
+      "email": "smith@gmail.com",
+      "rating": 5,
+      "review": "Awesome quality!"
+    }
+  ]
+}
